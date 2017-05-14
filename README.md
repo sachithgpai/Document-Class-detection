@@ -1,5 +1,5 @@
 # Document-Class-detection
-<img src="plot_2.png" align="right" style="width: 200px;
+<img src="plot_2.png" align="right" style="width: 60px;
 "/>
 With the increase of digitalization of documents, the organization and maintenance of textual data becomes important, especially in the form of relevance, context and inter-connection.  It can also help determine meaning to offer more concrete results. Every document is written in a particular style of language based on which domain experts can classify them into classes or categories such as news, literature, reviews, forums and chats etc., thus allowing the perception of context in which that particular document is written. This report explains and provides a proof of concept to classify documents based on the context in which the words in the document are used. Different corpora belonging to different contextual domains
 are accumulated and the feature vectors of the words, collectively called an embedding for a document, are learned. A model called Word2vec is used to produce word embeddings from the text which provides contextual information about the words present in the text.
