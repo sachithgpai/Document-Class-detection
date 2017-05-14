@@ -1,4 +1,4 @@
-<img src="icon.png" align="right" />
+<img src="plot2.png" align="right" />
 # Document-Class-detection
 
 With the increase of digitalization of documents, the organization and maintenance of textual data becomes important, especially in the form of relevance, context and inter-connection.  It can also help determine meaning to offer more concrete results. Every document is written in a particular style of language based on which domain experts can classify them into classes or categories such as news, literature, reviews, forums and chats etc., thus allowing the perception of context in which that particular document is written. This report explains and provides a proof of concept to classify documents based on the context in which the words in the document are used. Different corpora belonging to different contextual domains
